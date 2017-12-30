@@ -41,7 +41,7 @@
 - 云和开放平台：SAE/BAE/AWS/微博开放平台/微信应用开发
 # 开源项目和作品
 ## 开源项目
-  - [weather-cli-you](https://www.npmjs.com/package/weather-cli-you)：一个天气查询的小工具
+  - [weather-cli-you](https://www.npmjs.com/package/weather-cli-you) ：一个天气查询的小工具
 ## 作品
 - [移动端豆瓣电影](https://kushuhaha.github.io/exercise/projects/doubanmovie/dbdy.html)
 - [Cool Music](https://kushuhaha.github.io/exercise/projects/music/music.html)
