@@ -32,11 +32,11 @@
 - 了解<span style="color:#dc9656"> Photoshop</span>基本操作，熟练掌握切图技能
 -  <span style="color:#dc9656">Sublime</span> 作为编码⼯具，熟悉 <span style="color:#dc9656">Git </span>作为版本管理⼯具
 # 开源项目和作品
-# 开源项目
+## 开源项目
 ## weather-cli-you
 - 地址：[https://www.npmjs.com/package/weather-cli-you](https://www.npmjs.com/package/weather-cli-you)
 - 天气查询的小工具（npm包）
-# 作品
+## 作品
 ## 移动端豆瓣电影 
 - 项目预览：[https://kushuhaha.github.io/douban-movie/dist/dbdy.html](https://kushuhaha.github.io/douban-movie/dist/dbdy.html)
 - Github项目地址：[https://github.com/kushuhaha/douban-movie](https://github.com/kushuhaha/douban-movie)
