@@ -27,7 +27,7 @@
 - 可使⽤<span style="color:#dc9656"> Vue</span> 完成 SPA 应⽤开发
 -  熟悉<span style="color:#dc9656"> jQuery</span>，了解<span style="color:#dc9656">Node.js</span>
 - 使⽤<span style="color:#dc9656"> ESLint</span> 检查代码，借助 <span style="color:#dc9656">Babel </span>使⽤ ES6 部分新特性并兼容更多浏览器
-- 了解前后端联合开发的技术原理，使⽤ <span style="color:#dc9656">AJAX</span> 完成数据交互，熟悉常⻅<span style="color:#dc9656">跨域解决⽅案</span>
+- 了解前后端联合开发的技术原理，使⽤ <span style="color:#dc9656">AJAX</span> 完成数据交互，熟悉常见<span style="color:#dc9656">跨域解决⽅案</span>
 ## 其他
 - 了解<span style="color:#dc9656"> Photoshop</span>基本操作，熟练掌握切图技能
 -  <span style="color:#dc9656">Sublime</span> 作为编码⼯具，熟悉 <span style="color:#dc9656">Git </span>作为版本管理⼯具
