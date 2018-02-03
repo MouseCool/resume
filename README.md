@@ -37,10 +37,22 @@
 - 地址：[https://www.npmjs.com/package/weather-cli-you](https://www.npmjs.com/package/weather-cli-you)
 - 天气查询的小工具（npm包）
 ## 作品
-## 移动端豆瓣电影 
+## 豆瓣电影 (移动端)
 - 项目预览：[https://kushuhaha.github.io/douban-movie/dist/dbdy.html](https://kushuhaha.github.io/douban-movie/dist/dbdy.html)
 - Github项目地址：[https://github.com/kushuhaha/douban-movie](https://github.com/kushuhaha/douban-movie)
-- 技术栈：1. vue-cli：Vue的官方脚手架工具。 2. Axios: 异步获取数据，尤大推荐axios比vue-resource好。 3. vue-router: Vue的路由管理插件。 4. ES6语法：更加简洁高效。 5. scss: 用编程的风格去写css,更加方便有逻辑。 6. flex布局：移动端使用flex布局轻松自适应。 7. eslint：语法检测，让代码规范美观，易维护. 8. webpack: 当下流行的模块加载和打包器。
+- 使用豆瓣电影api和jquery制作的电影排行榜。
+
+- 使用ajax向豆瓣api发送请求。
+
+- 创建字符串模版，方便对数据进行渲染。
+
+- 实现了排行榜、北美、搜索等功能。
+
+- 代码风格漂亮简洁。
+
+- 排行榜页面实现了懒加载。
+
+- 技术栈： HTML5 + CSS3 + JavaScript + jQuery + ajax + webpack
 ## Cool Music
 - 项目预览：[https://kushuhaha.github.io/CoolMusic/dist/music.html](https://kushuhaha.github.io/CoolMusic/dist/music.html)
 - Github项目地址：[https://github.com/kushuhaha/CoolMusic](https://github.com/kushuhaha/CoolMusic)
