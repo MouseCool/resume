@@ -2,15 +2,16 @@
 - 应聘职位：前端开发
 - 手机：18679216636
 - Email：zhangnanji888@gmail.com 
-- QQ号：953251094
+- QQ：953251094
+- 微信：18679216636
 # 个人信息
  - 张楠寄/男/1996 
  - 大专/软件专业 
  - 工作年限：半年
  - 技术博客：[http://www.jianshu.com/u/c6101fff14ae](http://www.jianshu.com/u/c6101fff14ae)
  - Github：[https://github.com/kushuhaha](https://github.com/kushuhaha)
- - 期望薪资：税前月薪6k~8k，特别喜欢的公司可例外
- - 期望城市：上海
+ - 期望薪资：税前月薪4k~6k，特别喜欢的公司可例外
+ - 期望城市：江西
 # 技能
 ## HTML / CSS
 - 熟悉W3C规范，能够编写具有语义化的<span style="color:#dc9656">HTML</span>代码，熟悉<span style="color:#dc9656">CSS</span>的使用，了解<span style="color:#dc9656">HTML5</span>、<span style="color:#dc9656">CSS3</span>并能熟练使用部分新特性
