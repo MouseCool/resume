@@ -57,7 +57,11 @@
 - 项目预览：[https://kushuhaha.github.io/CoolMusic/dist/music.html](https://kushuhaha.github.io/CoolMusic/dist/music.html)
 - Github项目地址：[https://github.com/kushuhaha/CoolMusic](https://github.com/kushuhaha/CoolMusic)
 - 技术栈：1. vue-cli：Vue的官方脚手架工具。 2. Axios: 异步获取数据，尤大推荐axios比vue-resource好。 3. vue-router: Vue的路由管理插件。 4. ES6语法：更加简洁高效。 5. scss: 用编程的风格去写css,更加方便有逻辑。 6. flex布局：移动端使用flex布局轻松自适应。 7. eslint：语法检测，让代码规范美观，易维护. 8. webpack: 当下流行的模块加载和打包器。
-## Cool Music
-- 项目预览：http://bake.group
-- Github项目地址：https://github.com/18810666595/vue-eleme
+## 企业官网
+- 项目预览：[https://kushuhaha.github.io/company-page/index.html](https://kushuhaha.github.io/company-page/index.html)
+- Github项目地址：[https://github.com/kushuhaha/company-page](https://github.com/kushuhaha/company-page)
+- 技术栈：1. vue-cli：Vue的官方脚手架工具。 2. Axios: 异步获取数据，尤大推荐axios比vue-resource好。 3. vue-router: Vue的路由管理插件。 4. ES6语法：更加简洁高效。 5. scss: 用编程的风格去写css,更加方便有逻辑。 6. flex布局：移动端使用flex布局轻松自适应。 7. eslint：语法检测，让代码规范美观，易维护. 8. webpack: 当下流行的模块加载和打包器。
+## 音乐播放器
+- 项目预览：[https://kushuhaha.github.io/music-play/music1.html](https://kushuhaha.github.io/music-play/music1.html)
+- Github项目地址：[https://github.com/kushuhaha/music-play](https://github.com/kushuhaha/music-play)
 - 技术栈：1. vue-cli：Vue的官方脚手架工具。 2. Axios: 异步获取数据，尤大推荐axios比vue-resource好。 3. vue-router: Vue的路由管理插件。 4. ES6语法：更加简洁高效。 5. scss: 用编程的风格去写css,更加方便有逻辑。 6. flex布局：移动端使用flex布局轻松自适应。 7. eslint：语法检测，让代码规范美观，易维护. 8. webpack: 当下流行的模块加载和打包器。
