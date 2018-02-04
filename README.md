@@ -39,33 +39,28 @@
 - 天气查询的小工具（npm包）
 ## 作品
 ## 豆瓣电影 (移动端)
-  <img align="right" src="http://ww1.sinaimg.cn/thumbnail/0069jr7igy1fo4opvq37tj308o0f9abz.jpg"/>  
+<img align="right" src="http://ww1.sinaimg.cn/mw690/0069jr7igy1fo4or1fl55j308o0f9abz.jpg"/>  
 - 项目预览：[https://kushuhaha.github.io/douban-movie/dist/dbdy.html](https://kushuhaha.github.io/douban-movie/dist/dbdy.html)
 - Github项目地址：[https://github.com/kushuhaha/douban-movie](https://github.com/kushuhaha/douban-movie)
 - 使用豆瓣电影api和jquery制作的电影排行榜。
-
 - 使用ajax向豆瓣api发送请求。
 - 创建字符串模版，方便对数据进行渲染。
-
 - 实现了排行榜、北美、搜索等功能。
-
 - 代码风格漂亮简洁。
-
 - 排行榜页面实现了懒加载。
-
 - 技术栈： HTML5 + CSS3 + JavaScript + JQuery + ajax + webpack
 ## Cool Music
+<img src="http://ww1.sinaimg.cn/large/0069jr7igy1fo4oeek844j311y0hrx2a.jpg"/>
 - 项目预览：[https://kushuhaha.github.io/CoolMusic/dist/music.html](https://kushuhaha.github.io/CoolMusic/dist/music.html)
-- Github项目地址：[https://github.com/kushuhaha/CoolMusic](https://github.com/kushuhaha/CoolMusic)
-  <img src="http://ww1.sinaimg.cn/large/0069jr7igy1fo4oeek844j311y0hrx2a.jpg"/>
+- Github项目地址：[https://github.com/kushuhaha/CoolMusic](https://github.com/kushuhaha/CoolMusic) 
 - 技术栈：1. vue-cli：Vue的官方脚手架工具。 2. Axios: 异步获取数据，尤大推荐axios比vue-resource好。 3. vue-router: Vue的路由管理插件。 4. ES6语法：更加简洁高效。 5. scss: 用编程的风格去写css,更加方便有逻辑。 6. flex布局：移动端使用flex布局轻松自适应。 7. eslint：语法检测，让代码规范美观，易维护. 8. webpack: 当下流行的模块加载和打包器。
 ## 企业官网
+<img src="http://ww1.sinaimg.cn/large/0069jr7igy1fo4ogil84fj311d0hlqhs.jpg"/>
 - 项目预览：[https://kushuhaha.github.io/company-page/index.html](https://kushuhaha.github.io/company-page/index.html)
 - Github项目地址：[https://github.com/kushuhaha/company-page](https://github.com/kushuhaha/company-page)
-  <img src="http://ww1.sinaimg.cn/large/0069jr7igy1fo4ogil84fj311d0hlqhs.jpg"/>
 - 技术栈：1. vue-cli：Vue的官方脚手架工具。 2. Axios: 异步获取数据，尤大推荐axios比vue-resource好。 3. vue-router: Vue的路由管理插件。 4. ES6语法：更加简洁高效。 5. scss: 用编程的风格去写css,更加方便有逻辑。 6. flex布局：移动端使用flex布局轻松自适应。 7. eslint：语法检测，让代码规范美观，易维护. 8. webpack: 当下流行的模块加载和打包器。
 ## 音乐播放器
+<img src="http://ww1.sinaimg.cn/large/0069jr7igy1fo4oh0pb48j311v0hrdoj.jpg"/>
 - 项目预览：[https://kushuhaha.github.io/music-play/music1.html](https://kushuhaha.github.io/music-play/music1.html)
 - Github项目地址：[https://github.com/kushuhaha/music-play](https://github.com/kushuhaha/music-play)
-  <img src="http://ww1.sinaimg.cn/large/0069jr7igy1fo4oh0pb48j311v0hrdoj.jpg"/>
 - 技术栈：1. vue-cli：Vue的官方脚手架工具。 2. Axios: 异步获取数据，尤大推荐axios比vue-resource好。 3. vue-router: Vue的路由管理插件。 4. ES6语法：更加简洁高效。 5. scss: 用编程的风格去写css,更加方便有逻辑。 6. flex布局：移动端使用flex布局轻松自适应。 7. eslint：语法检测，让代码规范美观，易维护. 8. webpack: 当下流行的模块加载和打包器。
