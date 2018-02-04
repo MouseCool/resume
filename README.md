@@ -43,14 +43,23 @@
 <img align="right" src="http://ww1.sinaimg.cn/mw690/0069jr7igy1fo4or1fl55j308o0f9abz.jpg"/>
 
 - 项目预览：[https://kushuhaha.github.io/douban-movie/dist/dbdy.html](https://kushuhaha.github.io/douban-movie/dist/dbdy.html)
+
 - Github项目地址：[https://github.com/kushuhaha/douban-movie](https://github.com/kushuhaha/douban-movie)
+
 - 使用豆瓣电影api和jquery制作的电影排行榜。
+
 - 使用ajax向豆瓣api发送请求。
+
 - 创建字符串模版，方便对数据进行渲染。
+
 - 实现了排行榜、北美、搜索等功能。
+
 - 代码风格漂亮简洁。
+
 - 排行榜页面实现了懒加载。
+
 - 技术栈： HTML5 + CSS3 + JavaScript + JQuery + ajax + webpack
+
 ## Cool Music
 
 <img src="http://ww1.sinaimg.cn/large/0069jr7igy1fo4oeek844j311y0hrx2a.jpg"/>
