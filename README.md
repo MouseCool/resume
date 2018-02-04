@@ -42,6 +42,11 @@
 
 <img align="right" src="http://ww1.sinaimg.cn/mw690/0069jr7igy1fo4or1fl55j308o0f9abz.jpg"/>
 
+
+
+
+
+
 - 项目预览：[https://kushuhaha.github.io/douban-movie/dist/dbdy.html](https://kushuhaha.github.io/douban-movie/dist/dbdy.html)
 
 - Github项目地址：[https://github.com/kushuhaha/douban-movie](https://github.com/kushuhaha/douban-movie)
@@ -59,6 +64,11 @@
 - 排行榜页面实现了懒加载。
 
 - 技术栈： HTML5 + CSS3 + JavaScript + JQuery + ajax + webpack
+
+
+
+
+
 
 ## Cool Music
 
