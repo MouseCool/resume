@@ -41,6 +41,7 @@
 ## 豆瓣电影 (移动端)
 - 项目预览：[https://kushuhaha.github.io/douban-movie/dist/dbdy.html](https://kushuhaha.github.io/douban-movie/dist/dbdy.html)
 - Github项目地址：[https://github.com/kushuhaha/douban-movie](https://github.com/kushuhaha/douban-movie)
+  <img align="right" src="https://raw.githubusercontent.com/mzlogin/mzlogin.github.io/master/images/posts/markdown/demo.png"/>
 - 使用豆瓣电影api和jquery制作的电影排行榜。
 
 - 使用ajax向豆瓣api发送请求。
