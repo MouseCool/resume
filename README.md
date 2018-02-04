@@ -41,7 +41,7 @@
 ## 豆瓣电影 (移动端)
 - 项目预览：[https://kushuhaha.github.io/douban-movie/dist/dbdy.html](https://kushuhaha.github.io/douban-movie/dist/dbdy.html)
 - Github项目地址：[https://github.com/kushuhaha/douban-movie](https://github.com/kushuhaha/douban-movie)
-  <img align="right" src="https://raw.githubusercontent.com/mzlogin/mzlogin.github.io/master/images/posts/markdown/demo.png"/>
+  <img align="right" src="http://ww1.sinaimg.cn/large/0069jr7igy1fo4ocimxmxj308o0f9abz.jpg"/>
 - 使用豆瓣电影api和jquery制作的电影排行榜。
 
 - 使用ajax向豆瓣api发送请求。
@@ -58,12 +58,15 @@
 ## Cool Music
 - 项目预览：[https://kushuhaha.github.io/CoolMusic/dist/music.html](https://kushuhaha.github.io/CoolMusic/dist/music.html)
 - Github项目地址：[https://github.com/kushuhaha/CoolMusic](https://github.com/kushuhaha/CoolMusic)
+  <img src="http://ww1.sinaimg.cn/large/0069jr7igy1fo4oeek844j311y0hrx2a.jpg"/>
 - 技术栈：1. vue-cli：Vue的官方脚手架工具。 2. Axios: 异步获取数据，尤大推荐axios比vue-resource好。 3. vue-router: Vue的路由管理插件。 4. ES6语法：更加简洁高效。 5. scss: 用编程的风格去写css,更加方便有逻辑。 6. flex布局：移动端使用flex布局轻松自适应。 7. eslint：语法检测，让代码规范美观，易维护. 8. webpack: 当下流行的模块加载和打包器。
 ## 企业官网
 - 项目预览：[https://kushuhaha.github.io/company-page/index.html](https://kushuhaha.github.io/company-page/index.html)
 - Github项目地址：[https://github.com/kushuhaha/company-page](https://github.com/kushuhaha/company-page)
+  <img src="http://ww1.sinaimg.cn/large/0069jr7igy1fo4ogil84fj311d0hlqhs.jpg"/>
 - 技术栈：1. vue-cli：Vue的官方脚手架工具。 2. Axios: 异步获取数据，尤大推荐axios比vue-resource好。 3. vue-router: Vue的路由管理插件。 4. ES6语法：更加简洁高效。 5. scss: 用编程的风格去写css,更加方便有逻辑。 6. flex布局：移动端使用flex布局轻松自适应。 7. eslint：语法检测，让代码规范美观，易维护. 8. webpack: 当下流行的模块加载和打包器。
 ## 音乐播放器
 - 项目预览：[https://kushuhaha.github.io/music-play/music1.html](https://kushuhaha.github.io/music-play/music1.html)
 - Github项目地址：[https://github.com/kushuhaha/music-play](https://github.com/kushuhaha/music-play)
+  <img src="http://ww1.sinaimg.cn/large/0069jr7igy1fo4oh0pb48j311v0hrdoj.jpg"/>
 - 技术栈：1. vue-cli：Vue的官方脚手架工具。 2. Axios: 异步获取数据，尤大推荐axios比vue-resource好。 3. vue-router: Vue的路由管理插件。 4. ES6语法：更加简洁高效。 5. scss: 用编程的风格去写css,更加方便有逻辑。 6. flex布局：移动端使用flex布局轻松自适应。 7. eslint：语法检测，让代码规范美观，易维护. 8. webpack: 当下流行的模块加载和打包器。
