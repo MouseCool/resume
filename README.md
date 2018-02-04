@@ -52,7 +52,7 @@
 
 - 排行榜页面实现了懒加载。
 
-- 技术栈： HTML5 + CSS3 + JavaScript + jQuery + ajax + webpack
+- 技术栈： HTML5 + CSS3 + JavaScript + JQuery + ajax + webpack
 ## Cool Music
 - 项目预览：[https://kushuhaha.github.io/CoolMusic/dist/music.html](https://kushuhaha.github.io/CoolMusic/dist/music.html)
 - Github项目地址：[https://github.com/kushuhaha/CoolMusic](https://github.com/kushuhaha/CoolMusic)
