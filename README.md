@@ -10,7 +10,7 @@
  - 工作年限：半年
  - 技术博客：[http://www.jianshu.com/u/c6101fff14ae](http://www.jianshu.com/u/c6101fff14ae)
  - Github：[https://github.com/kushuhaha](https://github.com/kushuhaha)
- - 期望薪资：税前月薪4k~6k，特别喜欢的公司可例外
+ - 期望薪资：税前月薪4k~8k，特别喜欢的公司可例外
  - 期望城市：江西
 # 技能
 ## HTML / CSS
