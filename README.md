@@ -58,9 +58,9 @@
 
 - 排行榜页面实现了懒加载。
 
-- 123
+- 使用iconfont制作按钮图标，更小更清晰。
 
-- 456
+- 使用webpack进行打包。
 
 - 技术栈： HTML5 + CSS3 + JavaScript + JQuery + ajax + webpack
 ## Cool Music
