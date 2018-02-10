@@ -85,3 +85,7 @@
 - 项目预览：[https://kushuhaha.github.io/music-play/music1.html](https://kushuhaha.github.io/music-play/music1.html)
 - Github项目地址：[https://github.com/kushuhaha/music-play](https://github.com/kushuhaha/music-play)
 - 使用CSS3、JavaScript实现的小型音乐播放器，使用Ajax获取JSON格式的数据，实现了上一首、下一首、播放、暂停功能，进度条等功能。
+# 个人评价
+- 我是一个对前端和番剧由衷热爱的前端工程师。
+- 对新技术新知识充满兴趣，学习能力强，做事仔细认真，待人真诚，有强烈的责任心和进取心。
+- 我目前正在寻找前端工程师岗位的工作机会，希望借此为贵公司献上我的一点绵薄之力，快招我到碗里来吧！
