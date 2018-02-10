@@ -3,7 +3,7 @@
 - 手机：18679216636
 - Email：zhangnanji888@gmail.com 
 - QQ：953251094
-- 微信：18679216636
+- 微信：zhang1234735
 # 个人信息
  - 张楠寄/男/1996 
  - 大专/软件专业 
@@ -62,25 +62,26 @@
 
 - 使用webpack进行打包。
 
-- 技术栈： HTML5 + CSS3 + JavaScript + JQuery + ajax + webpack
+- 技术栈： HTML5 + CSS3 + JavaScript + JQuery + Ajax + Webpack
 ## Cool Music
 
 <img src="http://ww1.sinaimg.cn/large/0069jr7igy1fo4oeek844j311y0hrx2a.jpg"/>
 
 - 项目预览：[https://kushuhaha.github.io/CoolMusic/dist/music.html](https://kushuhaha.github.io/CoolMusic/dist/music.html)
 - Github项目地址：[https://github.com/kushuhaha/CoolMusic](https://github.com/kushuhaha/CoolMusic) 
-- 技术栈：1. vue-cli：Vue的官方脚手架工具。 2. Axios: 异步获取数据，尤大推荐axios比vue-resource好。 3. vue-router: Vue的路由管理插件。 4. ES6语法：更加简洁高效。 5. scss: 用编程的风格去写css,更加方便有逻辑。 6. flex布局：移动端使用flex布局轻松自适应。 7. eslint：语法检测，让代码规范美观，易维护. 8. webpack: 当下流行的模块加载和打包器。
+- 实现了一款响应式大屏在线音乐播放器，音乐api数据源自百度FM,使用ajax获取数据，实现了音乐播放、暂停、下一首功能，进度条显示功能，歌词显示功能，音乐分类获取、显示、切换功能,使用iconfont制作了音乐按钮图标，使用webpack进行打包。
+- 技术栈：HTML5 + CSS3 + JQuery + Ajax + Webpack
 ## 企业官网
 
 <img src="http://ww1.sinaimg.cn/large/0069jr7igy1fo4ogil84fj311d0hlqhs.jpg"/>
 
 - 项目预览：[https://kushuhaha.github.io/company-page/index.html](https://kushuhaha.github.io/company-page/index.html)
 - Github项目地址：[https://github.com/kushuhaha/company-page](https://github.com/kushuhaha/company-page)
-- 技术栈：1. vue-cli：Vue的官方脚手架工具。 2. Axios: 异步获取数据，尤大推荐axios比vue-resource好。 3. vue-router: Vue的路由管理插件。 4. ES6语法：更加简洁高效。 5. scss: 用编程的风格去写css,更加方便有逻辑。 6. flex布局：移动端使用flex布局轻松自适应。 7. eslint：语法检测，让代码规范美观，易维护. 8. webpack: 当下流行的模块加载和打包器。
+- 使用HTML5、CSS3制作的一个企业官网的模板，使用iconfont制作了图标。
 ## 音乐播放器
 
 <img src="http://ww1.sinaimg.cn/large/0069jr7igy1fo4oh0pb48j311v0hrdoj.jpg"/>
 
 - 项目预览：[https://kushuhaha.github.io/music-play/music1.html](https://kushuhaha.github.io/music-play/music1.html)
 - Github项目地址：[https://github.com/kushuhaha/music-play](https://github.com/kushuhaha/music-play)
-- 技术栈：1. vue-cli：Vue的官方脚手架工具。 2. Axios: 异步获取数据，尤大推荐axios比vue-resource好。 3. vue-router: Vue的路由管理插件。 4. ES6语法：更加简洁高效。 5. scss: 用编程的风格去写css,更加方便有逻辑。 6. flex布局：移动端使用flex布局轻松自适应。 7. eslint：语法检测，让代码规范美观，易维护. 8. webpack: 当下流行的模块加载和打包器。
+- 使用CSS3、JavaScript实现的小型音乐播放器，使用Ajax获取JSON格式的数据，实现了上一首、下一首、播放、暂停功能，进度条等功能。
