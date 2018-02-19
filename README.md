@@ -17,7 +17,7 @@
 - 熟悉W3C规范，能够编写具有语义化的<span style="color:#dc9656">HTML</span>代码，熟悉<span style="color:#dc9656">CSS</span>的使用，了解<span style="color:#dc9656">HTML5</span>、<span style="color:#dc9656">CSS3</span>并能熟练使用部分新特性
 - 了解<span style="color:#dc9656"> Sass</span>、<span style="color:#dc9656">Less</span> 等 CSS 预处理器
 - 借助<span style="color:#dc9656"> Bootstrap</span> 等 UI 库构建响应式 / 移动端网页
-- 不借助框架，能编写<span style="color:#dc9656">响应式 / 移动端网页</span>，使⽤动态 Rem 解决移动端屏幕适配问题
+- 不借助框架，能编写<span style="color:#dc9656">响应式 / 移动端网页</span>，使用动态 Rem 解决移动端屏幕适配问题
 ## ECMAScript (JavaScript) 
 - 熟悉 JavaScript ，代码编写遵守规范，有 <span style="color:#dc9656">ES6</span> 部分新特性使用经历
 - 了解 JavaScript<span style="color:#dc9656"> 异步</span>编程及常见解决⽅式
