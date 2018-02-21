@@ -86,9 +86,9 @@
 - Github项目地址：[https://github.com/kushuhaha/music-play](https://github.com/kushuhaha/music-play)
 - 使用CSS3、JavaScript实现的小型音乐播放器，使用Ajax获取JSON格式的数据，实现了上一首、下一首、播放、暂停功能，进度条等功能。
 ## 小作品
-- [3D登录框](https://kushuhaha.github.io/exercise/projects/3D%E7%99%BB%E5%BD%95%E6%A1%86.html)
-- [轮播](https://kushuhaha.github.io/exercise/projects/%E8%BD%AE%E6%92%AD.html)
-- [导航栏](https://kushuhaha.github.io/exercise/projects/%E5%AF%BC%E8%88%AA%E6%A0%8F.html)
+- [3D登录框](https://kushuhaha.github.io/exercise/projects/3Dlogin.html)
+- [轮播](https://kushuhaha.github.io/exercise/projects/carousel.html)
+- [导航栏](https://kushuhaha.github.io/exercise/projects/navbar.html)
 # 个人评价
 - 我是一个对前端和番剧由衷热爱的前端工程师。
 - 对新技术新知识充满兴趣，学习能力强，做事仔细认真，待人真诚，有强烈的责任心和进取心。
