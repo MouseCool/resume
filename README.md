@@ -1,42 +1,42 @@
 # 联系方式
-- 应聘职位：前端开发
+- 应聘职位：前端工程师
 - 手机：18679216636
 - Email：zhangnanji888@gmail.com 
-- QQ：953251094
 - 微信：zhang1234735
+- QQ：953251094
 # 个人信息
  - 张楠寄/男/1996 
  - 大专/软件专业 
  - 工作年限：半年
  - 技术博客：[http://www.jianshu.com/u/c6101fff14ae](http://www.jianshu.com/u/c6101fff14ae)
  - Github：[https://github.com/kushuhaha](https://github.com/kushuhaha)
- - 期望薪资：税前月薪4k~8k，特别喜欢的公司可例外
  - 期望城市：江西
 # 技能
 ## HTML / CSS
-- 熟悉W3C规范，能够编写具有语义化的<span style="color:#dc9656">HTML</span>代码，熟悉<span style="color:#dc9656">CSS</span>的使用，了解<span style="color:#dc9656">HTML5</span>、<span style="color:#dc9656">CSS3</span>并能熟练使用部分新特性
-- 了解<span style="color:#dc9656"> Sass</span>、<span style="color:#dc9656">Less</span> 等 CSS 预处理器
-- 借助<span style="color:#dc9656"> Bootstrap</span> 等 UI 库构建响应式 / 移动端网页
-- 不借助框架，能编写<span style="color:#dc9656">响应式 / 移动端网页</span>，使用动态 Rem 解决移动端屏幕适配问题
-## ECMAScript (JavaScript) 
-- 熟悉 JavaScript ，代码编写遵守规范，有 <span style="color:#dc9656">ES6</span> 部分新特性使用经历
-- 了解 JavaScript<span style="color:#dc9656"> 异步</span>编程及常见解决⽅式
-- 了解 JavaScript <span style="color:#dc9656">⾯向对象知识</span>与 <span style="color:#dc9656">MV* </span>模式
-- 了解 <span style="color:#dc9656">DOM</span>、<span style="color:#dc9656">BOM</span>，曾用原⽣ JS 实现部分 jQuery DOM 操作功能
+- 熟悉W3C规范，能够编写具有语义化的HTML代码，熟悉CSS的使用，了解HTML5、CSS3并能熟练使用部分新特性。
+- 了解Sass、Less等CSS预处理器。
+- 借助Bootstrap等UI库构建响应式 / 移动端网页。
+- 不借助框架，能编写响应式 / 移动端网页，使用动态 Rem 解决移动端屏幕适配问题。
+## JavaScript
+- 掌握一些重要的概念如原型、闭包、原型链、面向对象、异步等。
+- 掌握DOM操作、Ajax原理。
+- 熟悉JavaScript,代码编写遵守规范，有ES6部分新特性使用经历。
+- 能运用模块化、面向对象的方式编程。
+## jQuery
+- 熟悉jQuery的应用，包括但不限于jQuery选择器、DOM操作、$.ajax、jQuery插件封装等。
 ## 前端工程化 
-- 了解 CommonJS、AMD、CMD 模块化规范，能使用 <span style="color:#dc9656">webpack</span> 进行模块打包，了解gulp等前端工程化工具
-- 可使⽤<span style="color:#dc9656"> Vue</span> 完成 SPA 应⽤开发
--  熟悉<span style="color:#dc9656"> jQuery</span>，了解<span style="color:#dc9656">Node.js</span>
-- 使⽤<span style="color:#dc9656"> ESLint</span> 检查代码，借助 <span style="color:#dc9656">Babel </span>使⽤ ES6 部分新特性并兼容更多浏览器
-- 了解前后端联合开发的技术原理，使⽤ <span style="color:#dc9656">AJAX</span> 完成数据交互，熟悉常见<span style="color:#dc9656">跨域解决⽅案</span>
+- 了解 CommonJS、AMD、CMD 模块化规范，能使用 webpack 进行模块打包，了解gulp等前端工程化工具。
+- 了解Vue框架的基本原理。
+- 了解Node.js,熟悉Http协议。
+- 了解前后端联合开发的技术原理，使用Ajax完成数据交互，熟悉常见跨域解决方案。
 ## 其他
-- 了解<span style="color:#dc9656"> Photoshop</span>基本操作，熟练掌握切图技能
--  <span style="color:#dc9656">Sublime</span> 作为编码⼯具，熟悉 <span style="color:#dc9656">Git </span>作为版本管理⼯具
+- 了解 Photoshop基本操作，熟练掌握切图技能。
+- Sublime 作为编码工具，熟悉 Git 作为版本管理工具。
 # 开源项目和作品
 ## 开源项目
 ## weather-cli-you
 - 地址：[https://www.npmjs.com/package/weather-cli-you](https://www.npmjs.com/package/weather-cli-you)
-- 天气查询的小工具（npm包）
+- 天气查询的小工具（npm包），git上全局下载后输入 weather 九江 即可查询九江的实时天气。
 ## 作品
 ## 豆瓣电影 (移动端)
 
@@ -86,9 +86,12 @@
 - Github项目地址：[https://github.com/kushuhaha/music-play](https://github.com/kushuhaha/music-play)
 - 使用CSS3、JavaScript实现的小型音乐播放器，使用Ajax获取JSON格式的数据，实现了上一首、下一首、播放、暂停功能，进度条等功能。
 ## 小作品
-- [3D登录框](https://kushuhaha.github.io/exercise/projects/3Dlogin.html)
-- [轮播](https://kushuhaha.github.io/exercise/projects/carousel.html)
-- [导航栏](https://kushuhaha.github.io/exercise/projects/navbar.html)
+### [轮播](https://kushuhaha.github.io/exercise/projects/carousel.html)
+- 使用JQuery和CSS实现的图片轮播效果。
+### [3D登录框](https://kushuhaha.github.io/exercise/projects/3Dlogin.html)
+- 使用HTML5和CSS3新特性实现的特殊效果。
+### [导航栏](https://kushuhaha.github.io/exercise/projects/navbar.html)
+- 使用CSS属性实现的导航栏。
 # 个人评价
 - 我是一个对前端和番剧由衷热爱的前端工程师。
 - 对新技术新知识充满兴趣，学习能力强，做事仔细认真，待人真诚，有强烈的责任心和进取心。
