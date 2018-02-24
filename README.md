@@ -1,3 +1,5 @@
+#在线简历：[https://kushuhaha.github.io/resume/index.html](https://kushuhaha.github.io/resume/index.html)
+
 # 联系方式
 - 应聘职位：前端工程师
 - 手机：18679216636
