@@ -12,7 +12,7 @@
  - 工作年限：半年
  - 技术博客：[http://www.jianshu.com/u/c6101fff14ae](http://www.jianshu.com/u/c6101fff14ae)
  - Github：[https://github.com/kushuhaha](https://github.com/kushuhaha)
- - 期望城市：江西
+ - 期望城市：上海
 # 技能
 ## HTML / CSS
 - 熟悉W3C规范，能够编写具有语义化的HTML代码，熟悉CSS的使用，了解HTML5、CSS3并能熟练使用部分新特性。
