@@ -1,4 +1,4 @@
-# 在线简历：[https://kushuhaha.github.io/resume/index.html](https://kushuhaha.github.io/resume/index.html)
+# 在线简历：[https://MouseCool.github.io/resume/index.html](https://kushuhaha.github.io/resume/index.html)
 
 # 联系方式
 - 应聘职位：前端工程师
