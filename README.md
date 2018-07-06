@@ -33,7 +33,7 @@
 - 了解前后端联合开发的技术原理，使用Ajax完成数据交互，熟悉常见跨域解决方案。
 ## 其他
 - 了解 Photoshop基本操作，熟练掌握切图技能。
-- Sublime 作为编码工具，熟悉 Git 作为版本管理工具。
+- 熟悉VS code、HBuilder、Sublime等编码工具，熟悉 Git 作为版本管理工具。
 # 开源项目和作品
 ## 开源项目
 ## weather-cli-you
