@@ -10,7 +10,7 @@
  - 张楠寄/男/1996 
  - 大专/软件专业 
  - 工作年限：半年
- - 技术博客：[http://www.jianshu.com/u/c6101fff14ae](http://www.jianshu.com/u/c6101fff14ae)
+ - 技术博客：[https://www.jianshu.com/u/c6101fff14ae](https://www.jianshu.com/u/c6101fff14ae)
  - Github：[https://github.com/MouseCool](https://github.com/MouseCool)
  - 期望城市：上海
 # 技能
