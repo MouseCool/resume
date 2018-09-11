@@ -34,6 +34,11 @@
 ## 其他
 - 了解 Photoshop基本操作，熟练掌握切图技能。
 - 熟悉VS code、HBuilder、Sublime等编码工具，熟悉 Git 作为版本管理工具。
+# 工作经验
+- 资海网络集团南昌分公司
+
+- 上海申肃网络科技有限公司
+
 # 开源项目和作品
 ## 开源项目
 ## weather-cli-you
@@ -87,13 +92,6 @@
 - 项目预览：[https://MouseCool.github.io/music-play/music1.html](https://MouseCool.github.io/music-play/music1.html)
 - Github项目地址：[https://github.com/MouseCool/music-play](https://github.com/MouseCool/music-play)
 - 使用CSS3、JavaScript实现的小型音乐播放器，使用Ajax获取JSON格式的数据，实现了上一首、下一首、播放、暂停功能，进度条等功能。
-## 小作品
-### [轮播](https://MouseCool.github.io/exercise/projects/carousel.html)
-- 使用JQuery和CSS实现的图片轮播效果。
-### [3D登录框](https://MouseCool.github.io/exercise/projects/3Dlogin.html)
-- 使用HTML5和CSS3新特性实现的特殊效果。
-### [导航栏](https://MouseCool.github.io/exercise/projects/navbar.html)
-- 使用CSS属性实现的导航栏。
 # 个人评价
 - 我是一个对前端和番剧由衷热爱的前端工程师。
 - 对新技术新知识充满兴趣，学习能力强，做事仔细认真，待人真诚，有强烈的责任心和进取心。
